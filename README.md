@@ -22,4 +22,4 @@ Broadly, there are two types of attrition which occur in any company.
 
 Knowing the most likely reasons why employees leave the organization, can help the organization take action and reduce the level of Attrition inside the organization.
 
-We have constructed a very simple pipeline of predicting employee attrition, from some basic Exploratory Data Analysis to feature engineering as well as implementing three learning models in the form of a K-Neighbors Classifier, Random Forest and a Gradient Boosting classifier. This whole notebook takes less than a minute to run and it even returns a 87% accuracy in its predictions.
+I have constructed a very simple pipeline of predicting employee attrition, from some basic Exploratory Data Analysis to feature engineering as well as implementing three learning models in the form of a K-Neighbors Classifier, Random Forest and a Gradient Boosting classifier. This whole notebook takes less than a minute to run and it even returns a 87% accuracy in its predictions.
